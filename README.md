@@ -19,17 +19,18 @@ The primary use case is to substitute the background with a specified image, suc
   <tbody>
     <tr>
       <td>
-        <img src="img/input.png" alt="Input Image" style="object-fit: cover;">
+        <img src="img/input.png" alt="Input Image" style="height: 200px; object-fit: cover;">
       </td>
       <td>
-        <img src="img/bg_image.png" alt="Background Removed" style="object-fit: cover;">
+        <img src="img/bg_image.png" alt="Background Removed" style="height: 200px; object-fit: cover;">
       </td>
       <td>
-        <img src="img/output.png" alt="Final Output" style="object-fit: cover;">
+        <img src="img/output.png" alt="Final Output" style="height: 200px; object-fit: cover;">
       </td>
     </tr>
   </tbody>
 </table>
+
 
 
 ## Features
