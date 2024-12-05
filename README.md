@@ -18,13 +18,13 @@ The primary use case is to substitute the background with a specified image, suc
   </thead>
   <tbody>
     <tr>
-      <td style="width: 33%">
+      <td>
         <img src="img/input.png" alt="Input Image" style="object-fit: cover;">
       </td>
-      <td style="width: 33%">
+      <td>
         <img src="img/bg_image.png" alt="Background Removed" style="object-fit: cover;">
       </td>
-      <td style="width: 33%">
+      <td>
         <img src="img/output.png" alt="Final Output" style="object-fit: cover;">
       </td>
     </tr>
