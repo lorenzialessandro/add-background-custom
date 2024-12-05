@@ -6,8 +6,6 @@ This simple script automates the process of **removing the background from image
 
 The primary use case is to substitute the background with a specified image, such as a sponsor board or any other desired design. It is particularly useful for batch processing images within a directory.
 
-## Example
-
 <table style="border-collapse: collapse; text-align: center;">
   <thead>
     <tr>
