@@ -55,7 +55,7 @@ pip install rembg pillow
 
 1. Clone this repository or download the script.
 2. Place the images to be processed in the folder specified by the `folder_path` variable (default: `src/input/`).
-3. Provide a background image in the location specified by the `background_image_path` variable (default: `src/sponsor/sponsor.png`).
+3. Provide a background image in the location specified by the `background_image_path` variable (default: `src/background/sponsor.png`).
 4. Specify the output folder for the processed images in the `output_folder` variable (default: `src/output/`).
 
 ### How to Run the Script
